@@ -4,7 +4,6 @@ from math import cos, pi
 teta = 30 * (pi / 180)
 valor_esperado = cos(pi / 6)
 soma = 0
-soma_2 = 0
 
 for i in range(15):
     if i == 0:
